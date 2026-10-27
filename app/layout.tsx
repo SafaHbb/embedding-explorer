@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Semantic Sky",
+  title: "Embedding Explorer",
   description: "Explore 6,000 words as stars, placed by meaning.",
 };
 

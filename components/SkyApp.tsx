@@ -97,7 +97,7 @@ export default function SkyApp() {
               <span className="absolute inset-0 rounded-full bg-glow/20 blur-md" />
               <span className="h-2 w-2 rounded-full bg-glow shadow-[0_0_12px_#FFD27A]" />
             </span>
-            <span className="text-[15px] font-semibold tracking-tight">Semantic Sky</span>
+            <span className="text-[15px] font-semibold tracking-tight">Embedding Explorer</span>
           </div>
           <p className="mt-1 hidden pl-[38px] text-xs text-white/40 sm:block">6,000 words, placed by meaning</p>
           <p className="mt-0.5 hidden pl-[38px] text-xs text-white/25 sm:block">Drag to rotate · scroll to zoom</p>

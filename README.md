@@ -1,4 +1,4 @@
-# Semantic Sky
+# Embedding Explorer
 
 Explore 6,000 English words as stars in 3D space. Words with similar meanings sit close together.
 
